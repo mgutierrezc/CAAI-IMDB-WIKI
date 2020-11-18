@@ -2,3 +2,6 @@ Datasets/
 Other projects/
 .ipynb_checkpoints/
 *.pdf
+*.aux
+*.log
+*.out
