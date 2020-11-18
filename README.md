@@ -12,5 +12,4 @@ Docs:
 - [Jupyter Notebook with the same information](https://github.com/mgutierrezc/CAAI-IMDB-WIKI/blob/main/CAAI%20Data%20Task%20-%20Marco%20Gutierrez.html)
 - [Algorithm Flowchart](https://github.com/mgutierrezc/CAAI-IMDB-WIKI/blob/main/img/CNN_algorithm_flowchart.png)
 
-The main steps followed for coding this project can be found here
-https://github.com/mgutierrezc/CAAI-IMDB-WIKI/projects/1
+The main steps followed for coding this project can be found [here](https://github.com/mgutierrezc/CAAI-IMDB-WIKI/projects/1)
